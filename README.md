@@ -1,4 +1,5 @@
 # Hi there, I'm Faith Gbadegbe Etornam! 👋
+#![Typing SVG](https://readme-typing-svg.demolab.com?lines=A+developer+who+loves+coding.;Problem+solving+at+it's+peak.;Collaborate+on+projects!)
 
 ![Banner Image](your_banner_image_url_here)
 
@@ -24,6 +25,8 @@ I'm a passionate **Backend Engineer** with experience in **Django**. I love tack
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faith-Etornam&layout=compact)
+
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
@@ -45,6 +48,8 @@ I'm a passionate **Backend Engineer** with experience in **Django**. I love tack
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**()
 - **[Twitter]**(your_twitter_profile_link)
+
+- ![Quote Card](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 
 
