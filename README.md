@@ -1,4 +1,4 @@
-# Hi there, I'm Faith Gbadegbe! 👋
+# Hi there, I'm Faith Gbadegbe Etornam! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
