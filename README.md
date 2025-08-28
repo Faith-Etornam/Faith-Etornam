@@ -1,7 +1,7 @@
 # Hi there, I'm Faith Gbadegbe Etornam! 👋
-#![Typing SVG](https://readme-typing-svg.demolab.com?lines=A+developer+who+loves+coding.;Problem+solving+at+it's+peak.;Collaborate+on+projects!)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?lines=A+developer+who+loves+coding.;Problem+solving+at+it's+peak.;Collaborate+on+projects!)
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](./github-header-banner.png)
 
 ## About Me 🚀
 
