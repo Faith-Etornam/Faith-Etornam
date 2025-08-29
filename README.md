@@ -13,6 +13,16 @@ I'm a passionate **Backend Engineer** with experience in **Django**. I love tack
 - 📫 How to reach me: **faithgbadegbe1@gmail.com**
 - ⚡ Fun fact: **I sometimes get this weird feeling of being Spider-Man😅🤣😅 **
 
+## 📫 Let's Connect
+
+I'm always open to discussing backend development, new opportunities, or potential collaborations.
+
+### ALX Backend Web Development Scholar | Problem Solver | Future Backend Engineering Expert
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,13 +53,7 @@ I'm a passionate **Backend Engineer** with experience in **Django**. I love tack
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**()
-- **[Twitter]**(your_twitter_profile_link)
-
-- ![Quote Card](https://quotes-github-readme.vercel.app/api?type=horizontal)
+![Quote Card](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 
 
