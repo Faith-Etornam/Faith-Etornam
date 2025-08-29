@@ -17,7 +17,7 @@ I'm a passionate **Backend Engineer** with experience in **Django**. I love tack
 
 I'm always open to discussing backend development, new opportunities, or potential collaborations.
 
-### ALX Backend Web Development Scholar | Problem Solver | Future Backend Engineering Expert
+### ALX Backend Web Development | Problem Solver | Future Backend Engineering Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
@@ -36,8 +36,6 @@ I'm always open to discussing backend development, new opportunities, or potenti
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faith-Etornam&layout=compact)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
