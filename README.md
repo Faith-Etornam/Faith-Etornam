@@ -51,9 +51,6 @@ I'm a passionate **Backend Engineer** with experience in **Django**. I love tack
 
 - ![Quote Card](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
-<div align='center>
-- ### ⭐️ From [Faith Gbadegbe Etornam](https://github.com/Faith-Etornam)
-  </div>
 
 
 
