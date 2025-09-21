@@ -11,7 +11,7 @@ I'm a passionate **Backend Engineer** with experience in **Django**. I love tack
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **JavaScript, TypeScript and Python**
 - 📫 How to reach me: **faithgbadegbe1@gmail.com**
-- ⚡ Fun fact: **I sometimes get this weird feeling of being Spider-Man😅🤣😅 **
+- ⚡ Fun fact: **I wanna be Spider-Man😅🤣😅 **
 - 😎 Slogan: I will keep going with no trace of the man I'll be tomorrow
 
 ## 📫 Let's Connect
