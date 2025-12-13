@@ -35,6 +35,7 @@ I'm always open to discussing backend development, new opportunities, or potenti
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faith-Etornam&layout=compact)
 
 ![Quote Card](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
