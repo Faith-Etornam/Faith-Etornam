@@ -8,7 +8,7 @@
 I'm a passionate **Backend Engineer** with experience in **Django**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Django**
-- 🔭 Working on: **Hostel Management System for UMaT**
+- 🔭 Working on: **Hostel Management System for UMaT and my personal portfolio**
 - 🌍 Languages: **JavaScript, TypeScript and Python**
 - 📫 How to reach me: **faithgbadegbe1@gmail.com**
 - ⚡ Fun fact: **I wanna be Spider-Man😅🤣😅 **
